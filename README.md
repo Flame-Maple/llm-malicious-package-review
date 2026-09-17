@@ -8,7 +8,7 @@ This repository contains the minimum structured data needed to verify the search
 - Last completed search execution: 2026-08-31.
 - Publication-status freeze: 2026-09-01.
 - Status: the update search covering records and report versions through 2026-08-31 is complete.
-- Frozen publication-status composition: 19 peer-reviewed publications, 4 accepted or proceedings-listed reports, 8 preprints, and 1 master's thesis.
+- Frozen publication-status composition: 20 peer-reviewed publications, 3 accepted or proceedings-listed reports, 8 preprints, and 1 master's thesis.
 
 ## File
 
